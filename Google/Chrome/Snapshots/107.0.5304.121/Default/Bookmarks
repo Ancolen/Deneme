@@ -1,0 +1,47 @@
+{
+   "checksum": "67720a73b1f62f2e616c54b1c2c7e5ba",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13320952468974913",
+            "date_last_used": "0",
+            "guid": "3a5fc113-7b07-4415-bfeb-b5216a38efee",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Intra Profile Home",
+            "type": "url",
+            "url": "https://profile.intra.42.fr/"
+         } ],
+         "date_added": "13320921577635390",
+         "date_last_used": "0",
+         "date_modified": "13320952468974913",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Yer İşareti Çubuğu",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13320921577635391",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Diğer Yer İşaretleri",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13320921577635392",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobil Yer İşaretleri",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

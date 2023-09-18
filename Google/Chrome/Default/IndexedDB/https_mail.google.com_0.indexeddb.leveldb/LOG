@@ -1,0 +1,9 @@
+2023/09/18-01:41:58.302 6807 Reusing MANIFEST /Users/myerturk/Library/Application Support/Google/Chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/18-01:41:58.303 6807 Recovering log #7
+2023/09/18-01:41:58.582 6807 Reusing old log /Users/myerturk/Library/Application Support/Google/Chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2023/09/18-01:42:15.957 b403 Compacting 1@1 + 1@2 files
+2023/09/18-01:42:19.004 b403 Generated table #10@1: 216 keys, 358879 bytes
+2023/09/18-01:42:19.004 b403 Compacted 1@1 + 1@2 files => 358879 bytes
+2023/09/18-01:42:20.506 b403 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/18-01:42:20.595 b403 Delete type=2 #5
+2023/09/18-01:42:20.595 b403 Delete type=2 #8

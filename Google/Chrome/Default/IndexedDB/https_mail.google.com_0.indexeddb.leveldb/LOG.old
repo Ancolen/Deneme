@@ -1,0 +1,6 @@
+2023/09/17-23:22:03.290 af03 Reusing MANIFEST /Users/myerturk/Library/Application Support/Google/Chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/17-23:22:04.697 af03 Recovering log #4
+2023/09/17-23:22:09.576 af03 Reusing old log /Users/myerturk/Library/Application Support/Google/Chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2023/09/17-23:22:31.592 6f07 Level-0 table #8: started
+2023/09/17-23:22:32.275 6f07 Level-0 table #8: 1619168 bytes OK
+2023/09/17-23:22:32.538 6f07 Delete type=0 #4

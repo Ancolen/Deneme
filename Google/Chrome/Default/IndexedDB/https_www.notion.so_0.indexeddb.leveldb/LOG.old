@@ -1,0 +1,14 @@
+2023/09/17-23:23:26.148 6a07 Reusing MANIFEST /Users/myerturk/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/17-23:23:26.166 6a07 Recovering log #19
+2023/09/17-23:23:26.206 6a07 Reusing old log /Users/myerturk/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000019.log 
+2023/09/17-23:23:26.224 6a07 Delete type=2 #17
+2023/09/17-23:23:31.080 11303 Level-0 table #24: started
+2023/09/17-23:23:32.902 11303 Level-0 table #24: 519 bytes OK
+2023/09/17-23:23:35.184 11303 Delete type=0 #19
+2023/09/17-23:23:35.184 6a07 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 913 : 1
+2023/09/17-23:23:35.184 6a07 Compacting 1@0 + 1@1 files
+2023/09/17-23:23:36.848 6a07 Generated table #25@0: 161 keys, 2224 bytes
+2023/09/17-23:23:36.848 6a07 Compacted 1@0 + 1@1 files => 2224 bytes
+2023/09/17-23:23:38.462 6a07 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/17-23:23:38.462 6a07 Delete type=2 #24
+2023/09/17-23:23:38.462 6a07 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 913 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,80 @@
+2023/09/18-01:32:33.616 6807 Creating DB /Users/myerturk/Library/Application Support/Google/Chrome/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn since it was missing.
+2023/09/18-01:32:33.972 6807 Reusing MANIFEST /Users/myerturk/Library/Application Support/Google/Chrome/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2023/09/18-01:32:50.007 6807 Level-0 table #5: started
+2023/09/18-01:32:51.359 6807 Level-0 table #5: 2112669 bytes OK
+2023/09/18-01:32:51.806 6807 Delete type=0 #3
+2023/09/18-01:42:06.616 b403 Level-0 table #7: started
+2023/09/18-01:42:08.258 b403 Level-0 table #7: 2113268 bytes OK
+2023/09/18-01:42:09.256 b403 Delete type=0 #4
+2023/09/18-01:42:27.457 e103 Level-0 table #9: started
+2023/09/18-01:42:32.822 e103 Level-0 table #9: 2113642 bytes OK
+2023/09/18-01:42:35.768 e103 Delete type=0 #6
+2023/09/18-03:22:30.570 8a03 Level-0 table #11: started
+2023/09/18-03:22:31.665 8a03 Level-0 table #11: 2113702 bytes OK
+2023/09/18-03:22:31.877 8a03 Delete type=0 #8
+2023/09/18-03:33:23.785 e103 Level-0 table #13: started
+2023/09/18-03:33:26.977 e103 Level-0 table #13: 2113867 bytes OK
+2023/09/18-03:33:29.116 e103 Delete type=0 #10
+2023/09/18-03:33:42.836 14d03 Level-0 table #15: started
+2023/09/18-03:33:46.399 14d03 Level-0 table #15: 2114899 bytes OK
+2023/09/18-03:33:47.720 14d03 Delete type=0 #12
+2023/09/18-03:33:48.277 b403 Compacting 4@0 + 1@1 files
+2023/09/18-03:33:52.630 b403 Generated table #16@0: 1 keys, 705474 bytes
+2023/09/18-03:33:52.739 b403 Compacted 4@0 + 1@1 files => 705474 bytes
+2023/09/18-03:33:56.807 b403 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/18-03:33:56.807 b403 Delete type=2 #7
+2023/09/18-03:33:56.807 b403 Delete type=2 #9
+2023/09/18-03:33:56.808 b403 Delete type=2 #11
+2023/09/18-03:33:56.808 b403 Delete type=2 #13
+2023/09/18-03:33:56.808 b403 Delete type=2 #15
+2023/09/18-03:33:58.146 b403 Level-0 table #18: started
+2023/09/18-03:33:59.987 b403 Level-0 table #18: 2116694 bytes OK
+2023/09/18-03:34:01.733 b403 Delete type=0 #14
+2023/09/18-03:50:39.033 8a03 Level-0 table #20: started
+2023/09/18-03:50:40.358 8a03 Level-0 table #20: 2117605 bytes OK
+2023/09/18-03:50:40.888 8a03 Delete type=0 #17
+2023/09/18-04:08:22.621 8a03 Level-0 table #22: started
+2023/09/18-04:08:23.976 8a03 Level-0 table #22: 2117973 bytes OK
+2023/09/18-04:08:25.503 8a03 Delete type=0 #19
+2023/09/18-04:31:13.655 14d03 Level-0 table #24: started
+2023/09/18-04:31:15.348 14d03 Level-0 table #24: 2118124 bytes OK
+2023/09/18-04:31:15.943 14d03 Delete type=0 #21
+2023/09/18-04:31:15.962 14d03 Compacting 4@0 + 1@1 files
+2023/09/18-04:31:17.113 14d03 Generated table #25@0: 1 keys, 706163 bytes
+2023/09/18-04:31:17.113 14d03 Compacted 4@0 + 1@1 files => 706163 bytes
+2023/09/18-04:31:17.343 14d03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/18-04:31:17.343 14d03 Delete type=2 #16
+2023/09/18-04:31:17.343 14d03 Delete type=2 #18
+2023/09/18-04:31:17.343 14d03 Delete type=2 #20
+2023/09/18-04:31:17.343 14d03 Delete type=2 #22
+2023/09/18-04:31:17.343 14d03 Delete type=2 #24
+2023/09/18-04:33:15.469 14d03 Level-0 table #27: started
+2023/09/18-04:33:15.996 14d03 Level-0 table #27: 2118308 bytes OK
+2023/09/18-04:33:16.385 14d03 Delete type=0 #23
+2023/09/18-04:37:10.455 14d03 Level-0 table #29: started
+2023/09/18-04:37:11.648 14d03 Level-0 table #29: 2118164 bytes OK
+2023/09/18-04:37:11.897 14d03 Delete type=0 #26
+2023/09/18-05:50:59.392 6807 Level-0 table #31: started
+2023/09/18-05:50:59.971 6807 Level-0 table #31: 2118031 bytes OK
+2023/09/18-05:51:00.148 6807 Delete type=0 #28
+2023/09/18-05:54:14.521 14b03 Level-0 table #33: started
+2023/09/18-05:54:15.895 14b03 Level-0 table #33: 2118045 bytes OK
+2023/09/18-05:54:16.794 14b03 Delete type=0 #30
+2023/09/18-05:54:16.794 14b03 Compacting 4@0 + 1@1 files
+2023/09/18-05:54:17.950 14b03 Generated table #34@0: 1 keys, 706071 bytes
+2023/09/18-05:54:17.950 14b03 Compacted 4@0 + 1@1 files => 706071 bytes
+2023/09/18-05:54:18.514 14b03 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/18-05:54:18.515 14b03 Delete type=2 #25
+2023/09/18-05:54:18.515 14b03 Delete type=2 #27
+2023/09/18-05:54:18.515 14b03 Delete type=2 #29
+2023/09/18-05:54:18.515 14b03 Delete type=2 #31
+2023/09/18-05:54:18.515 14b03 Delete type=2 #33
+2023/09/18-05:56:56.868 b503 Level-0 table #36: started
+2023/09/18-05:56:58.525 b503 Level-0 table #36: 2118014 bytes OK
+2023/09/18-05:56:59.735 b503 Delete type=0 #32
+2023/09/18-10:09:32.089 8a03 Level-0 table #38: started
+2023/09/18-10:09:33.711 8a03 Level-0 table #38: 2118267 bytes OK
+2023/09/18-10:09:34.422 8a03 Delete type=0 #35
+2023/09/18-10:16:02.510 b403 Level-0 table #40: started
+2023/09/18-10:16:05.746 b403 Level-0 table #40: 2118552 bytes OK
+2023/09/18-10:16:07.812 b403 Delete type=0 #37

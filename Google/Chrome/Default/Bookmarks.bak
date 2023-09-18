@@ -1,0 +1,75 @@
+{
+   "checksum": "577acd76c11c6a2449cc00bd1798a634",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13157913873807962",
+            "date_last_used": "0",
+            "guid": "8cc2a2be-7774-4cfd-b95a-94aa324d9985",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13205462494863666"
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13233046612217782",
+            "date_last_used": "0",
+            "guid": "646117b8-2bf2-4d2e-b45a-3e6adb9ea02e",
+            "id": "8",
+            "name": "çeviri - Google'da Ara",
+            "type": "url",
+            "url": "https://www.google.com/search?q=%C3%A7eviri&oq=%C3%A7eviri&aqs=chrome.0.69i59l2.4417j0j7&sourceid=chrome&ie=UTF-8"
+         }, {
+            "date_added": "13268257858882348",
+            "date_last_used": "0",
+            "guid": "25422f36-7179-4a15-a54b-938b2880dbe4",
+            "id": "9",
+            "name": "Yeni Sekme",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13320952468974913",
+            "date_last_used": "13335479697883325",
+            "guid": "3a5fc113-7b07-4415-bfeb-b5216a38efee",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Intra Profile Home",
+            "type": "url",
+            "url": "https://profile.intra.42.fr/"
+         } ],
+         "date_added": "13320921577635390",
+         "date_last_used": "0",
+         "date_modified": "13320952468974913",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Yer İşareti Çubuğu",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13320921577635391",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Diğer Yer İşaretleri",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13320921577635392",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobil Yer İşaretleri",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cu8BCswBCIiBAhLFARI8CAISOAoGCgJibRABEDMaEgmA1O9EmAUGACGA1O9EmAUGADIYChYIAhG1hzFVmAUGABgAIQAAAAAAAAAAIACSAX0KNAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJS5gxVZgFBgARS5gxVZgFBgApAKgxVZgFBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgmAaapPmAUGABGAaapPmAUGACl7ljFVmAUGADCA06n9hLOBA7oBAggBEgAgASoYZXlOMmpqcVEvbXpYWEFabEIrZ0N6UT09SAMSrQIICRKoAgocSWc3RysxdkJGdEZuVDRGcGNweXNFVzVtVjNVPRKmAVo6QURxdEFaekFaYkxsRmNWWStlZmdXcnhmV0V1OXJXd2JwYW1HZXlQQUxuM2Z2UWNPc29PdXZrUTJJTnlsWEJiQUJsUUZxd2ZKSW5JT1RIZFV0NUthMHBTb0c3TE1JWWt4Z0hZNkx4RUFYRmxJcUNkaXVQYWpWclJLQUxTTFd6SUhCT2FiZWoyOFdiVlZpL25vTGdiK2ZTc2w4Tk1xTmpLbWx3PT0YACAAKAAw6p+s4Yne9AI4wvrViKEvQML61YihL0ocbG1Qa2toV3k1T1BXdVJ4eW56Q05XenE3cmZBPVofIh3aWEtSWWpJeWQ0NVBtcEM2VkRZeW01WHAwRlowPWUAAAAAEq0CCAgSqAIKHG5iaHBGUzZJU1lDNHFHSVFFdVM2aVFvYWgvbz0SpgFaOkFEcXRBWnpBWmJMbEZjVlkrZWZnV3J4ZldFdTlEYzJpK1RUOW55YlhIQTdmTnVDUnlRQXl1d1M2dGsrVTFxamYrekgrd2NsNU8wYWJKaUl1aTE5d0x5azhvZGJNbHBPRlo0bVFlNDFraVhyRW1RTnNpQk1yTVp1bjMwWGN2dTZ6T3loVlNsem1ySkc1TG14b1RQbVhQdFFqTTVSUHl3OGpnUT09GAAgAigCMPfF7dDZsoEDOPqB0vKdLkD8iJWqqjFKHGxCaDE5dVZzZEVxV1pyY0RMbk8zSlBBQXBzND1aHyIdtVRLcG1ONHZVNjJVTXhLUzJZQkpTRjE4NGdxTT1lEDD/5BKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnp5bmUzNFBSWjdrNGtxT3ViUzhEbW9WWjlPWjhKOWRjTkNBRjhNUm5SeTZFQmlnWERnWlBRczJPb0o1amlNaitpTzlRMU0YACAAKAAwk/7TsdmygQM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnpvUWVQTUtld0VkcTFORlFueHl5bDlyZXd5dW1nUlJVOWloZVY1Qm1hL1hieUFjRzNMZXI0YUxUcDgwU3RHRTY0MWV2RDgyc2ljK01xcjVadTBHU1FlOTlYQzF3PT0YACAAKAAwk/7TsdmygQM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKsAggHEqcCChxtdm4rb3hnM1owdXFGcWlLeDZrQ1VpTEZuK2c9EqYBWjpBRHF0QVp6QVpiTGxGY1ZZK2VmZ1dyeGZXRXU5eTF1R1NQdVNzL2hJMVdkMDJGajF1REIzejE0U0dVcGgvUmRDcUxuWDByUlc5bFFwWlRSVWtEVFozdVhpN3hLRVUrOC9zWDNBYzJOYktQdmd5ZERLNjJSU0dCbnpBV3VYcC9MODRLNW54ZGpEODlBc0NCYUhUMkMyVTZnTFRlUmF2WjRTc1E9PRgAIAAoADDgm8a+n5L8AjjOopTUmCxAzqKU1JgsShx5Q2ZhREVuOVhIVThXWDZGUXZwWXM2c0xVQTA9Wh4iHGtzTW1ScWVtWTVsZXllZkhJcWxaSFp5R2gwdz1lOPk5MxLsAQgFEucBChxZaDdrdE44d1hFRnVvWnhNcy9Edis1cEVGZEk9EmZaOkFEcXRBWnh4bWs0SWZ0cEQzVm1XSEJiZzh2dytOT3pJMlJWYStickxrRGZuajlkRmZZRW1aL3ZLZ0VVY09HTENGQ2wzRkgzN3UvaEUwNzJzeXdaVUF0dC9yRnlxY04weFZ3PT0YACADKAMwgrz+u/iygQM4n+eUqqoxQIjika6qMUocc1FDZ2cwdk1sMGRQODlKd0t6aDBOQjYvWWZRPVofIh3teGZmSEZRYkJlMmxSbzZITTQ2cmJlL0wxalVnPWUA2Q/bEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeTVmY3NjajNpM1Z1ZEZCS2gyY3ZXdDlsNEQ3NlJHY0haMmtwRDNtWDJDZEg2RWc1NXd3bmVUaERwaWtZOTRmV0xpWmNGZW03ZldON0VtcWM3SHRCeVdvNnB0eGc9PRgAIAAoADCT/tOx2bKBAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAMAE4AA==",
+   "version": 1
+}

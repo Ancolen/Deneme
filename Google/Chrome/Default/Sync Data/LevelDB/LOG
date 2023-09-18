@@ -1,0 +1,27 @@
+2023/09/18-12:04:05.861 f203 Reusing MANIFEST /Users/myerturk/Library/Application Support/Google/Chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/09/18-12:04:08.193 f203 Recovering log #10
+2023/09/18-12:04:08.638 f203 Reusing old log /Users/myerturk/Library/Application Support/Google/Chrome/Default/Sync Data/LevelDB/000010.log 
+2023/09/18-12:04:24.860 ba03 Level-0 table #14: started
+2023/09/18-12:04:25.723 ba03 Level-0 table #14: 106756 bytes OK
+2023/09/18-12:04:26.351 12803 Current memtable full; waiting...
+2023/09/18-12:04:27.038 ba03 Delete type=0 #10
+2023/09/18-12:04:27.408 b803 Level-0 table #16: started
+2023/09/18-12:04:29.164 b803 Level-0 table #16: 97678 bytes OK
+2023/09/18-12:04:30.526 b803 Delete type=0 #13
+2023/09/18-12:04:30.526 b803 Compacting 4@0 + 1@1 files
+2023/09/18-12:04:31.304 b803 Generated table #17@0: 153 keys, 15739 bytes
+2023/09/18-12:04:31.304 b803 Compacted 4@0 + 1@1 files => 15739 bytes
+2023/09/18-12:04:32.841 6e03 Current memtable full; waiting...
+2023/09/18-12:04:33.280 b803 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/18-12:04:33.280 b803 Delete type=2 #7
+2023/09/18-12:04:33.280 b803 Delete type=2 #9
+2023/09/18-12:04:33.280 b803 Delete type=2 #11
+2023/09/18-12:04:33.280 b803 Delete type=2 #14
+2023/09/18-12:04:33.280 b803 Delete type=2 #16
+2023/09/18-12:04:33.663 b803 Level-0 table #19: started
+2023/09/18-12:04:33.663 6e03 Current memtable full; waiting...
+2023/09/18-12:04:34.691 b803 Level-0 table #19: 98869 bytes OK
+2023/09/18-12:04:36.035 b803 Delete type=0 #15
+2023/09/18-12:04:36.035 b803 Level-0 table #21: started
+2023/09/18-12:04:36.973 b803 Level-0 table #21: 115719 bytes OK
+2023/09/18-12:04:39.021 b803 Delete type=0 #18
